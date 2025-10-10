@@ -70,7 +70,6 @@ I continuously enhance my knowledge through **online courses** and **professiona
 | Tools | Git, Excel, Jupyter, VS Code |
 
 ---
-
 ## 🧩 Languages and Tools
 
 <p align="center">
@@ -85,20 +84,21 @@ I continuously enhance my knowledge through **online courses** and **professiona
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="55" height="55"/>
 
   <!-- Visualization & Analysis -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="Excel" width="55" height="55"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Tableau_Logo.png" alt="Tableau" width="55" height="55"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Microsoft_Office_Excel_%282019–present%29.svg" alt="Excel" width="55" height="55"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="55" height="55"/>
 
   <!-- Version Control & Cloud -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="55" height="55"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="65" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="55" height="55"/>
 
-  <!-- Generic Data & ML Symbols (optional aesthetic icons) -->
+  <!-- Generic Data & ML Symbols -->
   <img src="https://cdn-icons-png.flaticon.com/512/2721/2721261.png" alt="Machine Learning" width="55" height="55"/>
   <img src="https://cdn-icons-png.flaticon.com/512/1048/1048941.png" alt="Deep Learning" width="55" height="55"/>
   <img src="https://cdn-icons-png.flaticon.com/512/3940/3940056.png" alt="Data Analysis" width="55" height="55"/>
 </p>
+
 
 ---
 
