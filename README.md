@@ -84,13 +84,13 @@ I continuously enhance my knowledge through **online courses** and **professiona
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="55" height="55"/>
 
   <!-- Visualization & Analysis -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Tableau_Logo.png" alt="Tableau" width="55" height="55"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Microsoft_Office_Excel_%282019–present%29.svg" alt="Excel" width="55" height="55"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="55" height="55"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-tableau-5376635-4471238.png" alt="Tableau" width="55" height="55"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-microsoft-excel-141184.png" alt="Excel" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="55" height="55"/>
 
   <!-- Version Control & Cloud -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55" height="55"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="65" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="65" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="55" height="55"/>
 
   <!-- Generic Data & ML Symbols -->
