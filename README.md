@@ -70,6 +70,7 @@ I continuously enhance my knowledge through **online courses** and **professiona
 | Tools | Git, Excel, Jupyter, VS Code |
 
 ---
+
 ## 🧩 Languages and Tools
 
 <p align="center">
@@ -83,14 +84,14 @@ I continuously enhance my knowledge through **online courses** and **professiona
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="55" height="55"/>
 
-  <!-- Visualization & Analysis -->
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-tableau-5376635-4471238.png" alt="Tableau" width="55" height="55"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-microsoft-excel-141184.png" alt="Excel" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="55" height="55"/>
+  <!-- Visualization & Analysis (Use your GitHub-hosted links here) -->
+  <img src="https://github.com/YourUsername/YourRepo/blob/main/assets/icons/tableau.png?raw=true" alt="Tableau" width="55" height="55"/>
+  <img src="https://github.com/YourUsername/YourRepo/blob/main/assets/icons/excel.svg?raw=true" alt="Excel" width="55" height="55"/>
+  <img src="https://github.com/YourUsername/YourRepo/blob/main/assets/icons/powerbi.svg?raw=true" alt="Power BI" width="55" height="55"/>
 
   <!-- Version Control & Cloud -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="65" height="55"/>
+  <img src="https://github.com/YourUsername/YourRepo/blob/main/assets/icons/aws.svg?raw=true" alt="AWS" width="65" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="55" height="55"/>
 
   <!-- Generic Data & ML Symbols -->
@@ -98,7 +99,6 @@ I continuously enhance my knowledge through **online courses** and **professiona
   <img src="https://cdn-icons-png.flaticon.com/512/1048/1048941.png" alt="Deep Learning" width="55" height="55"/>
   <img src="https://cdn-icons-png.flaticon.com/512/3940/3940056.png" alt="Data Analysis" width="55" height="55"/>
 </p>
-
 
 ---
 
