@@ -84,14 +84,10 @@ I continuously enhance my knowledge through **online courses** and **professiona
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="55" height="55"/>
 
-  <!-- Visualization & Analysis (Use your GitHub-hosted links here) -->
-  <img src="https://github.com/YourUsername/YourRepo/blob/main/assets/icons/tableau.png?raw=true" alt="Tableau" width="55" height="55"/>
-  <img src="https://github.com/YourUsername/YourRepo/blob/main/assets/icons/excel.svg?raw=true" alt="Excel" width="55" height="55"/>
-  <img src="https://github.com/YourUsername/YourRepo/blob/main/assets/icons/powerbi.svg?raw=true" alt="Power BI" width="55" height="55"/>
 
   <!-- Version Control & Cloud -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55" height="55"/>
-  <img src="https://github.com/YourUsername/YourRepo/blob/main/assets/icons/aws.svg?raw=true" alt="AWS" width="65" height="55"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="65" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="55" height="55"/>
 
   <!-- Generic Data & ML Symbols -->
