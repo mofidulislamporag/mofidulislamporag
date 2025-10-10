@@ -65,11 +65,6 @@ I continuously enhance my knowledge through **online courses** and **professiona
 
 ---
 
-## 📈 GitHub Stats
-
-![Mafi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mafiexample&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mafiexample&layout=compact&theme=dark)
-
 ---
 
 ## 🌐 Connect With Me
