@@ -1,4 +1,5 @@
-https://github.com/mofidulislamporag/mofidulislamporag/blob/main/cover%20photo%20link%20(1).png?raw=true
+![Mafidul's Banner](https://github.com/mofidulislamporag/mofidulislamporag/blob/main/cover%20photo%20link%20(1).png?raw=true)
+
 
 # 👋 Hey there! I'm Mafidul (Mafi)
 
