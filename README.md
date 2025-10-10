@@ -1,5 +1,8 @@
-![Mafidul's Banner](https://github.com/mofidulislamporag/mofidulislamporag/blob/main/cover%20photo%20link%20(1).png?raw=true)
-
+<p align="center">
+  <img src="https://github.com/mofidulislamporag/mofidulislamporag/blob/main/cover%20photo%20link%20(1).png?raw=true" 
+       alt="Mafidul's Banner" 
+       width="100%">
+</p>
 
 # 👋 Hey there! I'm Mafidul (Mafi)
 
