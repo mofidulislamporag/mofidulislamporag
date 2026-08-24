@@ -1,64 +1,155 @@
+# Hi, I'm Md Mafidul Islam 👋
 
+Cloud Engineer | Azure Enthusiast | Infrastructure & Automation
 
-# Hey there! I'm Mafidul (Mafi)
+I am a Computer Science graduate student at Daffodil International University with a strong interest in Cloud Computing, Infrastructure Automation, DevOps, and Cloud Architecture.
 
-**🔍 Data Scientist | IT**
-
----
-
-Welcome to my GitHub profile!  
-I am a dedicated **Data Scientist** passionate about **unraveling stories hidden within complex datasets**.  
-With a strong analytical mindset and attention to detail, I specialize in **transforming raw data into actionable insights** that drive impactful decision-making.
+Currently pursuing a career as a Cloud Engineer with hands-on experience in Azure, Terraform, AWS fundamentals, CI/CD concepts, and cloud infrastructure deployment.
 
 ---
 
+## 🚀 Certifications
+
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
+- Microsoft Certified: Azure Solutions Architect Expert (AZ-305)
 
 ---
 
-## 💡 Skills
+## 🛠️ Technical Skills
 
-✅ **Programming & Tools:**  
-Python (Pandas, NumPy, Matplotlib, Seaborn) • Azure • SQL • Git • Excel  
+### Cloud Platforms
+- Microsoft Azure
+- Amazon Web Services (AWS)
 
-✅ **Data Visualization:**  
-Tableau • Power BI • Matplotlib • Seaborn  
+### Azure Services
+- Virtual Machines
+- Azure Networking
+- Virtual Networks
+- Load Balancers
+- NSGs
+- Private Endpoints
+- Azure Administration
+- Azure Backup
+- Azure Migration
 
-✅ **Core Competencies:**  
-Statistical Analysis • Predictive Modeling  • Data Storytelling • Critical Thinking  
+### Infrastructure & DevOps
+- Terraform
+- Azure DevOps
+- CI/CD Pipelines
+- Infrastructure as Code (IaC)
+- Hyper-V
+- Docker Fundamentals
+- AKS Fundamentals
 
-✅ **Soft Skills:**  
-Problem-Solving • Team Collaboration • Communication • Adaptability • Time Management  
+### Networking
+- TCP/IP
+- DNS
+- DHCP
+- VPN
+- LAN/WAN
+- Routing
+- Firewalls
+
+### Operating Systems
+- Linux
+- Windows Server
+
+### Programming & Scripting
+- Python
+- PowerShell
+- Bash
+- C
+- C#
+- PHP
+
+---
+
+## 📂 Featured Projects
+
+### Multi-Region Web Application Architecture with Azure
+- Designed active/passive failover architecture using Azure Front Door.
+- Deployed application services.
+- Implemented Application Insights for monitoring and performance tracking.
+
+**Technologies**
+Azure Front Door • App Services • Application Insights
+
+---
+
+### Terraform AWS Infrastructure as Code (IaC)
+- Built and automated AWS infrastructure deployment using Terraform.
+- Provisioned:
+  - VPC
+  - EC2
+  - RDS
+  - S3
+  - CloudWatch
+- Managed networking components through reusable Terraform modules.
+
+**Technologies**
+Terraform • AWS • Infrastructure as Code
+
+---
+
+### AWS EKS Kubernetes Deployment
+- Created and managed an Amazon EKS cluster.
+- Deployed Kubernetes workloads using AWS CLI, eksctl, and kubectl.
+- Configured external access using AWS Load Balancer and NGINX.
+
+**Technologies**
+AWS • EKS • Kubernetes • NGINX • Load Balancer
+
+---
+
+## 💼 Experience
+
+### Web Development Intern
+**Divine IT** | Feb 2020 – Aug 2020
+
+- Provided technical support for web applications and backend systems.
+- Built and maintained web servers and APIs.
+- Designed and managed CI/CD release processes.
 
 ---
 
 ## 🎓 Education
 
-🎓 **MSc in Data Science**  
-*Technical University of Bielefeld, Germany*  
+### University of Bielefeld
+Master of Science in Data Science
+2021 – Present
 
-Here, I built a strong foundation in **data analysis**, **machine learning**, and **statistical modeling**, while also engaging in projects that combined academic theory with real-world data applications.  
-I continuously enhance my knowledge through **online courses** and **professional development programs** in advanced data science topics.
-
----
-
-## 🚀 What I'm Currently Exploring
-
-- Advanced Machine Learning & Deep Learning techniques  
-- Bayesian Data Analysis for predictive modeling  
-- Data-driven decision systems using Power BI and Python  
+### Daffodil International University
+Bachelor of Science in Computer Science & Engineering
+2020
 
 ---
 
-## 🛠️ Tech Stack
+## 🌍 Languages
 
-| Category | Tools |
-|-----------|-------|
-| Programming | Python, R, SQL |
-| Libraries | Pandas, NumPy, Matplotlib, Seaborn, scikit-learn |
-| Visualization | Tableau, Power BI |
-| Tools | Git, Excel, Jupyter, VS Code |
+- Bengali (Native)
+- German (B2)
+- English (C1)
 
 ---
+
+## 📫 Contact
+
+- LinkedIn: www.linkedin.com/in/md-mafidul-islam
+- GitHub: github.com/your-github-username
+- Email: mofidulislampora@gmail.com
+- Location: Dortmund, Germany
+
+---
+
+### Current Focus
+
+- Azure Cloud Engineering
+- Terraform & Infrastructure as Code
+- Kubernetes
+- Azure DevOps
+- Cloud Automation
+- Cloud Architecture
 
 ## 🧩 Languages and Tools
 
@@ -87,18 +178,7 @@ I continuously enhance my knowledge through **online courses** and **professiona
 
 ---
 
-## 🏆 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mofidulislamporag&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mofidulislamporag&layout=compact&theme=radical" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mofidulislamporag&theme=radical" alt="GitHub Streak"/>
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mofidulislamporag&theme=radical&no-frame=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
-
-
----
 
 ## 🌐 Connect With Me
 
@@ -108,5 +188,5 @@ I continuously enhance my knowledge through **online courses** and **professiona
 
 ---
 
-> _“Data is the new oil, but insight is the refinery.”_  
-> — Mafidul (Mafi)
+
+Always learning, building, and exploring cloud technologies ☁️
