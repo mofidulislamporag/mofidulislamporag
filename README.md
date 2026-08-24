@@ -133,14 +133,6 @@ Bachelor of Science in Computer Science & Engineering
 
 ---
 
-## 📫 Contact
-
-- LinkedIn: www.linkedin.com/in/md-mafidul-islam
-- GitHub: github.com/your-github-username
-- Email: mofidulislampora@gmail.com
-- Location: Dortmund, Germany
-
----
 
 ### Current Focus
 
